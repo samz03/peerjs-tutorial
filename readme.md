@@ -1,5 +1,8 @@
 # Simple Video Call App using PeerJS
 
+## Youtube video
+[https://youtu.be/l2AYTVhrCXE](https://youtu.be/l2AYTVhrCXE)
+
 ## Installation
 1. Download source code-nya
 2. Buka terminal di direktori projek
